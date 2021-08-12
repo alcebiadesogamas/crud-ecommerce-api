@@ -1,6 +1,5 @@
 import * as path from 'path';
 import moduleAlias from 'module-alias';
-import { dirname } from 'path/posix';
 
 const files = path.resolve(__dirname, '../..');
 
